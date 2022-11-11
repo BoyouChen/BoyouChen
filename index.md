@@ -1,3 +1,3 @@
 # This website is updating...
-![avatar](/Users/chenboyou/Documents/identification photo.jpeg)
+![avatar](/Users/chenboyou/Documents/identification.jpeg)
 #### Build by Boyou Chen
